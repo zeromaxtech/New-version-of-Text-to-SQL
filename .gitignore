@@ -3,3 +3,7 @@ uploaded_data.csv
 __pycache__/
 *.pyc
 .env
+build/
+dist/
+run_app.py
+run_app.spec
