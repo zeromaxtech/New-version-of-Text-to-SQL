@@ -27,11 +27,5 @@ https://new-version-of-text-to-sql-maorm5edxb4e6ymu5ziotb.streamlit.app/
 
 ---
 
-## 🚀 Getting Started
 
-### Local Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/zeromaxtech/New-version-of-Text-to-SQL.git](https://github.com/zeromaxtech/New-version-of-Text-to-SQL.git)
-   cd "sql query"
