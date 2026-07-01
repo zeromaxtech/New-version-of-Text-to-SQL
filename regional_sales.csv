@@ -1,0 +1,4 @@
+transaction_id,region,units_sold,revenue
+T901,North,450,9000
+T902,South,120,2400
+T903,West,310,6200

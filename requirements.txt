@@ -1,4 +1,5 @@
-duckdb
 streamlit
 pandas
-ollama
+openai
+python-dotenv
+duckdb

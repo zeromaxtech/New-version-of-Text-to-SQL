@@ -1,0 +1,4 @@
+item_id,item_name,warehouse_sector,stock_count,unit_cost
+I501,Server Rack A,Sector-4,12,2400
+I502,Fiber Cable Spool,Sector-2,45,350
+I503,IoT Gateway Hub,Sector-4,8,120

@@ -1,0 +1,3 @@
+emp_id,name,role,is_manager,salary
+E101,Sarah Jenkins,Engineering Director,TRUE,145000
+E102,Alex Rivera,Staff Analyst,FALSE,82000
